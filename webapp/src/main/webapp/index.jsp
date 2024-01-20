@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cool Login Page</title>
+    <title>Magic Begins Welcome</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -72,7 +72,7 @@
 <body>
 
 <div class="login-container">
-    <h2>Welcome to lalya.com</h2>
+    <h2>Welcome to LoneWolf.com</h2>
     <form class="login-form" action="#" method="post">
         <div class="form-group">
             <label for="username">Username:</label>
