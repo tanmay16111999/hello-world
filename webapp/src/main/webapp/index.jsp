@@ -72,7 +72,7 @@
 <body>
 
 <div class="login-container">
-    <h2>Welcome to lalya.com</h2>
+    <h2>Welcome to Omen World</h2>
     <form class="login-form" action="#" method="post">
         <div class="form-group">
             <label for="username">Username:</label>
