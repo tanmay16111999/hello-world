@@ -73,7 +73,7 @@
 
 <div class="login-container">
 <<<<<<< HEAD
-    <h2>Welcome to Omen World</h2>
+    <h2>Reborn</h2>
 =======
     <h2>Why Always me?</h2>
 >>>>>>> 949f703b8d6855867c10feb15b75181d18f291e9
